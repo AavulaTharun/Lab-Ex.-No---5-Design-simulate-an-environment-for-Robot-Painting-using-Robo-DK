@@ -197,11 +197,10 @@ Home target
 
 
 ##Program:
-/* 
+~~~ 
 Developed by:A.Tharun
 RegisterNumber:212221240003
-*/
-~~~
+
 &ACCESS RVP
 &REL 1
 &PARAM TEMPLATE = C:\KRC\Roboter\Template\vorgabe
